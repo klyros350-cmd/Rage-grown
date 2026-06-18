@@ -7,7 +7,7 @@ from datetime import datetime
 import json
 
 # --- НАСТРОЙКИ ---
-TOKEN = "8853179512:AAFdjo0jG7RWLbm4f0rmwXc6xreA7-zHvxA"
+TOKEN = '8853179512:AAFdjo0jG7RWLbm4f0rmwXc6xreA7-zHvxA'
 ADMIN_ID = 7301878856
 MANAGER_LINK = "https://t.me/RageGrown"
 SITE_URL = "http://микрозеленьиваново.рф/"
